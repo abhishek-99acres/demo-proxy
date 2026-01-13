@@ -1,4 +1,0 @@
-urllib
-socket
-threading
-sys
